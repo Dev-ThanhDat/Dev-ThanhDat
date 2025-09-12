@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Thanh Dat</h1>
 
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Web Developer</h3>
 <div align="center">
   <img
     src="./images/background_2.jpg"

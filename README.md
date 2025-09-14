@@ -165,6 +165,30 @@
   &nbsp;
   <span
     ><img
+      src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=#4479A1"
+      alt="MySQL logo"
+      title="MySQL"
+      height="25"
+  /></span>
+  &nbsp;
+  <span
+    ><img
+      src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=#2D3748"
+      alt="Prisma logo"
+      title="Prisma"
+      height="25"
+  /></span>
+  &nbsp;
+  <span
+    ><img
+      src="https://img.shields.io/badge/JWT-282C34?logo=jsonwebtokens&logoColor=#000000"
+      alt="JWT logo"
+      title="JWT"
+      height="25"
+  /></span>
+  &nbsp;
+  <span
+    ><img
       src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=#F05032"
       alt="Git logo"
       title="Git"
